@@ -1,7 +1,9 @@
 # 💫 About Me:
 
 Student at 42 Lyon, where I'm pursuing my passion for computer science, a field that has fascinated me since I was 12 years old.
+
 I completed a Bachelor's in Multimedia and Internet Professions, an experience that allowed me to strengthen my skills and deepen my interest in the digital world.
+
 Ready to take on new challenges!!
 
 # 💻 Tech Stack:
