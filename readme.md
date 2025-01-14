@@ -15,8 +15,6 @@ Ready to take on new challenges!!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maxence-morot) 
----
-[![](https://visitcount.itsvg.in/api?id=WaRtr0&icon=2&color=12)](https://visitcount.itsvg.in)
 
-![C++](https://github.com//WaRtr0/WaRtr0/raw/assets/Skills_Animation.gif?raw=true)
+![C++](https://github.com//WaRtr0/WaRtr0/raw/assets/Finish.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
